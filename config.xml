@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.ionicframework.fluchthelferion270634" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.ionicframework.fluchthelferion270634" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>FluchthelferIon</name>
   <description>
-        An Ionic Framework and Cordova project.
+        Die App die direkten Kontakt zu Flüchtlingen herstellt und Spenden ermöglicht.
     </description>
-  <author email="hi@ionicframework" href="http://ionicframework.com/">
-      Ionic Framework Team
+  <author email="info@stilfokus.de" href="http://stilfokus.de/">
+      Stilfokus Medienagentur
     </author>
   <content src="index.html"/>
   <access origin="*"/>
